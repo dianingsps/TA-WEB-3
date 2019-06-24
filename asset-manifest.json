@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TA-WEB-3/static/css/main.83bd8ac9.chunk.css",
+    "main.js": "/TA-WEB-3/static/js/main.e0577e98.chunk.js",
+    "main.js.map": "/TA-WEB-3/static/js/main.e0577e98.chunk.js.map",
+    "runtime~main.js": "/TA-WEB-3/static/js/runtime~main.282a4eec.js",
+    "runtime~main.js.map": "/TA-WEB-3/static/js/runtime~main.282a4eec.js.map",
+    "static/js/2.c39fed63.chunk.js": "/TA-WEB-3/static/js/2.c39fed63.chunk.js",
+    "static/js/2.c39fed63.chunk.js.map": "/TA-WEB-3/static/js/2.c39fed63.chunk.js.map",
+    "index.html": "/TA-WEB-3/index.html",
+    "precache-manifest.3411b925873d2ccede8c1230931d6301.js": "/TA-WEB-3/precache-manifest.3411b925873d2ccede8c1230931d6301.js",
+    "service-worker.js": "/TA-WEB-3/service-worker.js",
+    "static/css/main.83bd8ac9.chunk.css.map": "/TA-WEB-3/static/css/main.83bd8ac9.chunk.css.map"
+  }
+}
